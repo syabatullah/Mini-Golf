@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 20c9ae4147a094e4b81bf2dbfabfbd2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_0
+  - first:
+      213: 21300002
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_1
+  - first:
+      213: 21300004
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_2
+  - first:
+      213: 21300006
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_3
+  - first:
+      213: 21300008
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_4
+  - first:
+      213: 21300010
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_5
+  - first:
+      213: 21300012
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_6
+  - first:
+      213: 21300014
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_7
+  - first:
+      213: 21300016
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_8
+  - first:
+      213: 21300018
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_9
+  - first:
+      213: 21300020
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_10
+  - first:
+      213: 21300022
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_11
+  - first:
+      213: 21300024
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_12
+  - first:
+      213: 21300026
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_13
+  - first:
+      213: 21300028
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_14
+  - first:
+      213: 21300030
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_15
+  - first:
+      213: 21300032
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_16
+  - first:
+      213: 21300034
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_17
+  - first:
+      213: 21300036
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_18
+  - first:
+      213: 21300038
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_19
+  - first:
+      213: 21300040
+    second: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 31
+        width: 295
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3c2cfd68d38a40b9673fb1f35b8fa
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 242
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da589713b415e9d4ea174c34b97f1272
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 242
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c0aaed411d55c4fb05b1c82557a50b
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 242
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8927a1efa23a8184eb31fcdac6cb52e7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 242
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a97c775a4a40a841a61754fb9dcc00f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 189
+        width: 100
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7179395d4dff24fb98806c92bb5f5e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 189
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0a565f49daea54d84e4f1a8d50a67c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 189
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eb33c3790912146a392dab4bf74063
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 189
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e183773f888b404ab158b630ab67f6d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 136
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46003af458f42040a3ebd460dbd0e64
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 136
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d0ef3f63c58a442bd91be7cabf4edd
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 136
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e634cddeac34f4b448136d7b156a15d0
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 136
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73175fcc2e4088f4fa32484d9464bf7a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 83
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfa0812ed1dde44abd92f88eb6b5a28
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 83
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d56048ac4fa881469ba608c2083da86
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 83
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ecb2dfc2bcb554089b19475b593b5d
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 83
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce2ce85f52443c4bb64c9ebbfd099b3
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 30
+        width: 100
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08769d9fdd0bdcf418db6742474c1ee2
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 30
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decba483458e90f44884948b2686d8b1
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 31
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953972929bdb2f54099f0f2aeb69cf0c
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 30
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199eb858a9e0f9439f808eb6c0cf679
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 59ae20d16b6be01448f8784243349559
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_0: 21300000
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_1: 21300002
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_10: 21300020
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_11: 21300022
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_12: 21300024
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_13: 21300026
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_14: 21300028
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_15: 21300030
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_16: 21300032
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_17: 21300034
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_18: 21300036
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_19: 21300038
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_2: 21300004
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_20: 21300040
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_3: 21300006
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_4: 21300008
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_5: 21300010
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_6: 21300012
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_7: 21300014
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_8: 21300016
+      game-ui-kit-with-victory-menu-scene-popup-icons-buttons-with-editable-text-effect_659713-71-removebg-preview_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

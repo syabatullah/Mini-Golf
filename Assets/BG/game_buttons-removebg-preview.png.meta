@@ -1,0 +1,735 @@
+fileFormatVersion: 2
+guid: 2557e8184fd094146a9629b9f204c754
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: game_buttons-removebg-preview_0
+  - first:
+      213: 21300002
+    second: game_buttons-removebg-preview_1
+  - first:
+      213: 21300004
+    second: game_buttons-removebg-preview_2
+  - first:
+      213: 21300006
+    second: game_buttons-removebg-preview_3
+  - first:
+      213: 21300008
+    second: game_buttons-removebg-preview_4
+  - first:
+      213: 21300010
+    second: game_buttons-removebg-preview_5
+  - first:
+      213: 21300012
+    second: game_buttons-removebg-preview_6
+  - first:
+      213: 21300014
+    second: game_buttons-removebg-preview_7
+  - first:
+      213: 21300016
+    second: game_buttons-removebg-preview_8
+  - first:
+      213: 21300018
+    second: game_buttons-removebg-preview_9
+  - first:
+      213: 21300020
+    second: game_buttons-removebg-preview_10
+  - first:
+      213: 21300022
+    second: game_buttons-removebg-preview_11
+  - first:
+      213: 21300024
+    second: game_buttons-removebg-preview_12
+  - first:
+      213: 21300026
+    second: game_buttons-removebg-preview_13
+  - first:
+      213: 21300028
+    second: game_buttons-removebg-preview_14
+  - first:
+      213: 21300030
+    second: game_buttons-removebg-preview_15
+  - first:
+      213: 21300032
+    second: game_buttons-removebg-preview_16
+  - first:
+      213: 21300034
+    second: game_buttons-removebg-preview_17
+  - first:
+      213: 21300036
+    second: game_buttons-removebg-preview_18
+  - first:
+      213: 21300038
+    second: game_buttons-removebg-preview_19
+  - first:
+      213: 21300040
+    second: game_buttons-removebg-preview_20
+  - first:
+      213: 21300042
+    second: game_buttons-removebg-preview_21
+  - first:
+      213: 21300044
+    second: game_buttons-removebg-preview_22
+  - first:
+      213: 21300046
+    second: game_buttons-removebg-preview_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 521
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b91fe5a67cad2e459381a64dee6a01f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 527
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e540bdb9159982a429b336047e3dffb5
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 527
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d779a69b1a1234fb46b2208b9b2615
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 527
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf6b7d54b864c45998caae95ba22a6
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 444
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a8ca425e5ea904cba4c7339e0849b7
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 444
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fb2c7166b193f4f9b5b7b90db9b9db
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 444
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684d467785efabd43979b4c510ae0e35
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 444
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2924f2ceae212d647af5c3530944db9c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 357
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3894060b30f93074b8057c968b2d8492
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 357
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be7f2cc3595104fbd4736ad7e67ab4
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 357
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b56c937dacdc7744b04b2f3570b68bf
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 357
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0030ac51a69ce1142b9af7d8606a4b2f
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 221
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafff120b8e0b59499ac836b1ab7ff0d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5583f558ba8523f4482256e886849376
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9acf660388d80b43964715e497728b4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7e6c8dd4f9d9246bf8937cb62d9887
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 149
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ff990a074ef4e4eb2094c6599e45a0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 149
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef62ec902c951e3428e2569d8462ee1b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 149
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5887750704b8428fa2d3460148313
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 149
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b37f7b75d41b4eb2457436197d9c3
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709fdad4e5047044298cf3617de893f3
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4c1b746a36e9640a82a2d7ab7d9fe8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7661c9ee4ff94db9968ee170351cd
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 63
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d77f3814c98e1499f034ea22225633
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 17ace2f510f3df641b5cbc40665e3105
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      game_buttons-removebg-preview_0: 21300000
+      game_buttons-removebg-preview_1: 21300002
+      game_buttons-removebg-preview_10: 21300020
+      game_buttons-removebg-preview_11: 21300022
+      game_buttons-removebg-preview_12: 21300024
+      game_buttons-removebg-preview_13: 21300026
+      game_buttons-removebg-preview_14: 21300028
+      game_buttons-removebg-preview_15: 21300030
+      game_buttons-removebg-preview_16: 21300032
+      game_buttons-removebg-preview_17: 21300034
+      game_buttons-removebg-preview_18: 21300036
+      game_buttons-removebg-preview_19: 21300038
+      game_buttons-removebg-preview_2: 21300004
+      game_buttons-removebg-preview_20: 21300040
+      game_buttons-removebg-preview_21: 21300042
+      game_buttons-removebg-preview_22: 21300044
+      game_buttons-removebg-preview_23: 21300046
+      game_buttons-removebg-preview_3: 21300006
+      game_buttons-removebg-preview_4: 21300008
+      game_buttons-removebg-preview_5: 21300010
+      game_buttons-removebg-preview_6: 21300012
+      game_buttons-removebg-preview_7: 21300014
+      game_buttons-removebg-preview_8: 21300016
+      game_buttons-removebg-preview_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
